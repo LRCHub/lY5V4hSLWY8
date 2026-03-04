@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Risk It All",
+  "base_artist": "Bruno Mars",
+  "createdAt": "2026-03-04T17:50:10.203666Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Risk It All",
+      "artist": "The Vamps",
+      "has_synced": true,
+      "path": "select/01_Risk_It_All_The_Vamps.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Risk It All",
+      "artist": "Escape the Fate",
+      "has_synced": false,
+      "path": "select/02_Risk_It_All_Escape_the_Fate.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Risk It All (Acoustic)",
+      "artist": "Ella Henderson feat. House Gospel Choir",
+      "has_synced": false,
+      "path": "select/03_Risk_It_All_(Acoustic)_Ella_Henderson_feat._House_Gospel_Choir.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Risk It All",
+      "artist": "Mono Inc.",
+      "has_synced": true,
+      "path": "select/04_Risk_It_All_Mono_Inc..lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Risk It All - Classic Version",
+      "artist": "Mono Inc.",
+      "has_synced": false,
+      "path": "select/05_Risk_It_All_-_Classic_Version_Mono_Inc..txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Risk It All - Symphonic Live",
+      "artist": "Mono Inc.",
+      "has_synced": false,
+      "path": "select/06_Risk_It_All_-_Symphonic_Live_Mono_Inc..txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Risk It All",
+      "artist": "A Skylit Drive",
+      "has_synced": false,
+      "path": "select/07_Risk_It_All_A_Skylit_Drive.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Risk It All (acoustic)",
+      "artist": "Ella Henderson",
+      "has_synced": true,
+      "path": "select/08_Risk_It_All_(acoustic)_Ella_Henderson.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Risk It All",
+      "artist": "Ella Henderson feat. House Gospel Choir & Just Kiddin",
+      "has_synced": false,
+      "path": "select/09_Risk_It_All_Ella_Henderson_feat._House_Gospel_Choir_&_Just_Kiddin.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Risk It All",
+      "artist": "Jah Cure feat. Phyllisia Ross",
+      "has_synced": true,
+      "path": "select/10_Risk_It_All_Jah_Cure_feat._Phyllisia_Ross.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Risk It All (feat. Phyllisia Ross)",
+      "artist": "Jah Cure",
+      "has_synced": true,
+      "path": "select/11_Risk_It_All_(feat._Phyllisia_Ross)_Jah_Cure.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Risk It All (www.LoMasRankiaO.com)",
+      "artist": "The Vamps",
+      "has_synced": true,
+      "path": "select/12_Risk_It_All_(www.LoMasRankiaO.com)_The_Vamps.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Risk It All",
+      "artist": "Escape the Fate",
+      "has_synced": true,
+      "path": "select/13_Risk_It_All_Escape_the_Fate.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Risk It All",
+      "artist": "Baby Smoove",
+      "has_synced": true,
+      "path": "select/14_Risk_It_All_Baby_Smoove.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Risk It All",
+      "artist": "Jah Cure Ft. Phyllisia Ross",
+      "has_synced": true,
+      "path": "select/15_Risk_It_All_Jah_Cure_Ft._Phyllisia_Ross.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Risk It All (From the Original Motion Picture “The Color Purple”)",
+      "artist": "Usher",
+      "has_synced": true,
+      "path": "select/16_Risk_It_All_(From_the_Original_Motion_Picture_“The_Color_Purple”)_Usher.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Risk It All (From the Original Motion Picture “The Color Purple”)",
+      "artist": "USHER & H.E.R.",
+      "has_synced": true,
+      "path": "select/17_Risk_It_All_(From_the_Original_Motion_Picture_“The_Color_Purple”)_USHER_&_H.E.R..lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Risk It All",
+      "artist": "Bruno Mars",
+      "has_synced": false,
+      "path": "select/pl_01_Risk_It_All_Bruno_Mars.txt"
+    }
+  ]
+}
